@@ -1,0 +1,1 @@
+./Debug/main.o ./Debug/GLFunc.o ./Debug/Object.o ./Debug/ObjectList.o ./Debug/DetectBox.o ./Debug/Point.o ./Debug/pos.o ./Debug/Line.o
